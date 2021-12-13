@@ -51,8 +51,8 @@ body {
 
 .footer {
   border-radius: 2em 2em 0 0;
-  background-color: #0c6323;
-  background: radial-gradient(circle, #0c6323 0%, #12961f 82%);
+  background-color: rgb(10, 14, 209);
+  background: radial-gradient(circle, rgb(45, 99, 214) 0%, rgb(73, 147, 231) 82%);
 }
 
 .title-contact {
