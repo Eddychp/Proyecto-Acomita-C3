@@ -211,7 +211,8 @@ body{
 .img-header .welcome > button{
     width: 170px;
     height: 40px;
-    background: var(--red);
+    background: red;
+    background: radial-gradient(circle, #0d44c3 0%, #ee1a25 82%);;
     border-radius: 24px;
     border:none;
     outline: none;

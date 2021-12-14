@@ -90,4 +90,25 @@ abajo.addEventListener('click', () => {
   document.documentElement.scrollTop = 600;
   
 });
+let abajo1 = document.querySelector('#abajo1');
+
+abajo1.addEventListener('click', () => {
+  document.body.scrollTop = 600;
+  document.documentElement.scrollTop = 1900;
+  
+});
+let abajo2 = document.querySelector('#abajo2');
+
+abajo2.addEventListener('click', () => {
+  document.body.scrollTop = 600;
+  document.documentElement.scrollTop = 3750;
+  
+});
+let abajo3 = document.querySelector('#abajo3');
+
+abajo3.addEventListener('click', () => {
+  document.body.scrollTop = 600;
+  document.documentElement.scrollTop = 5000;
+  
+});
 
