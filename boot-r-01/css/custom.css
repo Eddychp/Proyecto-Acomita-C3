@@ -28,8 +28,9 @@ body {
 }
 
 .title {
-  background-color: #0c6323;
-  background: radial-gradient(circle, #0c6323 0%, #12961f 82%);
+  
+  background-color: #0d44c3;
+  background: radial-gradient(circle, #0d44c3 0%, #ee1a25 82%);
 }
 
 .title-items {
@@ -3396,8 +3397,11 @@ fieldset:disabled .btn {
 
 .btn-outline-light:hover {
   color: #000;
-  background-color: #f8f9fa;
+  background-color: #0d44c3;
+  background: radial-gradient(circle, #0d44c3 0%, #ee1a25 82%);
+
   border-color: #f8f9fa;
+  
 }
 
 .btn-check:focus + .btn-outline-light, .btn-outline-light:focus {
