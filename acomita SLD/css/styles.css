@@ -277,7 +277,9 @@ body{
     object-fit: cover;
     border-radius: 10px;
     cursor: pointer;
+   
 }
+
 .acerca-de .info-container .about-more{
     width: 100%;
     display: flex;
