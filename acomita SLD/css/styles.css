@@ -624,3 +624,18 @@ body{
     .footer .footer-text{width: 100%; padding: 0px 30px;}
     .footer .footer-text p{font-size: 17px;}
 }
+
+.contenedor-cat{
+    position: relative;
+}
+.IMA{
+    color: #40423c;
+    text-decoration: none;
+    position: absolute;
+    padding: 15px 30px 25px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-weight: bold;
+    font-size: 1.2em;
+}
