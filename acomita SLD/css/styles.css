@@ -292,6 +292,9 @@ body{
 
 }
 
+.blog{
+    margin-top:100px ;
+}
 .acerca-de .info-container .about-more{
     width: 100%;
     display: flex;
