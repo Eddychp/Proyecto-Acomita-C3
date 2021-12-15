@@ -312,7 +312,7 @@ body{
     text-align: center;
     line-height: 40px;
     font-size: 20px;
-    background: var(--red);
+    background: red;
     border: none;
     outline: none;
     border-radius: 20px;
