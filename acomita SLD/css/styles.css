@@ -281,6 +281,16 @@ body{
     cursor: pointer;
    
 }
+.marco{
+    width: 100% ;
+    background-color:transparent;
+    float: left;
+    
+}
+.pa{
+    width: 20%;
+
+}
 
 .acerca-de .info-container .about-more{
     width: 100%;
