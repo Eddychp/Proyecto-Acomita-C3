@@ -101,14 +101,14 @@ let abajo2 = document.querySelector('#abajo2');
 
 abajo2.addEventListener('click', () => {
   document.body.scrollTop = 600;
-  document.documentElement.scrollTop = 3750;
+  document.documentElement.scrollTop = 3350;
   
 });
 let abajo3 = document.querySelector('#abajo3');
 
 abajo3.addEventListener('click', () => {
   document.body.scrollTop = 600;
-  document.documentElement.scrollTop = 5000;
+  document.documentElement.scrollTop = 4500;
   
 });
 

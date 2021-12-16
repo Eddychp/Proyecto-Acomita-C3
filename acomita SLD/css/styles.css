@@ -648,3 +648,37 @@ body{
     font-weight: bold;
     font-size: 1.2em;
 }
+.raa{
+    color: white !important;
+   
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;    
+}
+
+
+.fondoc{ 
+    background: linear-gradient(rgba(5,7,12,0.25),rgba(5,7,12,0.75)),url(../img/img-1.jpg);
+    
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+}
+.contda{
+    background: beige;
+    border-radius: 2%;
+}
+.raaa{
+    color: white !important;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;    
+}
+.ccc{
+    margin-left:500px !important;
+    margin-right:500px !important;
+}
